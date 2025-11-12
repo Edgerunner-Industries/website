@@ -14,7 +14,7 @@ export default function Home() {
       </main>
       <footer className="py-6 text-center relative z-10">
         <p className="text-xs font-light tracking-widest text-gray-600 sm:text-sm">
-          Edgerunner Industries, Inc.
+          Edgerun Industries, Inc.
         </p>
       </footer>
     </div>

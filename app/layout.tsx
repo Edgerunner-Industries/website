@@ -9,7 +9,7 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "Edgerunner Industries, Inc.",
+  title: "Edgerun Industries, Inc.",
   description: "Coming soon...",
 };
 
